@@ -5,7 +5,7 @@ And I will be happy to help you expand and develop my repositories with your iss
 <hr>
 
 سلام من یک برنامه نویس html, javascript, css و پایتون هستم از ایران (فعلا از تهران).
-و البته که خوشحال میشم که با issue ها و pullrequest هاتون به گسترش repository های من کمک کنید :)
+و البته که خوشحال میشم که با issue ها و pull request هاتون به گسترش repository های من کمک کنید :)
 
 <hr>
 
