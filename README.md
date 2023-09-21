@@ -1,6 +1,8 @@
 I am an html, css, javascript and python programmer from Iran (and currently from Tehran).
 And I will be happy to help you expand and develop my repositories with your issues and pull requests :)
+<hr>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ar-dst&show_icons=true&theme=radical)
 
 <hr>
 
